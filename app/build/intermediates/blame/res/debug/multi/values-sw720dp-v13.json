@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 68,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 68,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 68,
+                        "endOffset": 188
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 68,
+                        "endOffset": 119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endColumn": 68,
+                    "endOffset": 188
+                },
+                "from": {
+                    "file": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 124,
+                        "endColumn": 68,
+                        "endOffset": 188
+                    }
+                }
+            }
+        ]
+    }
+]

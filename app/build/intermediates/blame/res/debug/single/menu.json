@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\gimbal-sampleapp-studio\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

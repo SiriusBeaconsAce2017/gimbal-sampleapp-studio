@@ -1,0 +1,535 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:16:4-95:12
+	package
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:16:73-108
+		INJECTED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:17:25-50
+		INJECTED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:17:1-24
+		INJECTED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:16:14-72
+uses-sdk
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:19:1-70
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\ASUS\.android\build-cache\aae4241b59a9d4f19c0dce6dca45b805a800477f\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:10.2.0] C:\Users\ASUS\.android\build-cache\f4b84238362ab2928dd2a493d15add55d8efb534\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\f7d929ac1df1cfc2cbee8ba7171c21c1664cb499\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\ASUS\.android\build-cache\ea7f140e365588996be79ab56975b59ad24406de\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\ASUS\.android\build-cache\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:10.2.0] C:\Users\ASUS\.android\build-cache\c087a8731eb8d67d1343ba750f7d4a957223cdfa\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\ASUS\.android\build-cache\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\ASUS\.android\build-cache\d95953eead54dccb69d44040e1f4dd0b279ddff6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-config:10.2.0] C:\Users\ASUS\.android\build-cache\052821d269d4783adcf2962379c121e88930e599\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:10.2.0] C:\Users\ASUS\.android\build-cache\d30a03f88e33e71071955b793b275f6640b641f1\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:10.2.0] C:\Users\ASUS\.android\build-cache\1d98aad2b9fb52e84092abceffd6379fb65be934\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\ASUS\.android\build-cache\0b4eca60043182a2f1545da08016e4ced92e1e5c\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:10.2.0] C:\Users\ASUS\.android\build-cache\5069fa79d98e15b4015d92765beaab1af9d8ef02\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:10.2.0] C:\Users\ASUS\.android\build-cache\8cae875db3ed1c2f9515a38acd7235c999c25809\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:10.2.0] C:\Users\ASUS\.android\build-cache\af0f02deb61a927639f0f63dc5d8e4ba602386b7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:10.2.0] C:\Users\ASUS\.android\build-cache\7a5ccd14a25b2da5f4adb29eb4795a25d0bc1171\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:10.2.0] C:\Users\ASUS\.android\build-cache\f2dedd7468bf698483669d917ffe23acea6bc91d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:10.2.0] C:\Users\ASUS\.android\build-cache\52d390527e7e6c8bc125f2e109e3a95d46317dda\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:10.2.0] C:\Users\ASUS\.android\build-cache\54d2c41d79912548dcbb8353031a8d5639a4769e\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.0] C:\Users\ASUS\.android\build-cache\ef47a8dd21674e630a74c78cc3036af38fc25d86\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] C:\Users\ASUS\.android\build-cache\5ddb78e91cd2496b0e2bd9d7f233b3666c17ad5e\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:10.2.0] C:\Users\ASUS\.android\build-cache\47cea4aa3b40892dc9ee5500d91df3fa30ae5199\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:10.2.0] C:\Users\ASUS\.android\build-cache\e97be21363eebbe69e4e35864a10c3cd3f899c0d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:10.2.0] C:\Users\ASUS\.android\build-cache\9dba39c90b865e9d9f04b9b77df056f559ede7d7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] C:\Users\ASUS\.android\build-cache\e96d9a23cc371cb14a5b6139b0de6f79d22f6f89\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:10.2.0] C:\Users\ASUS\.android\build-cache\da75aedcc1d258e19c2182d741ce33dc526f89b2\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\ASUS\.android\build-cache\8b5645f6584432c2fb20d94f0b1eda961fbef354\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] C:\Users\ASUS\.android\build-cache\75782794d812a654e27bd61c1af61743b21c54d0\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] C:\Users\ASUS\.android\build-cache\126fbd60e973e22e409b55a95e8a904e2a8ea593\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:10.2.0] C:\Users\ASUS\.android\build-cache\8244e2bdf3975c65f30dd8ea7f59d393b6b7d14f\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:10.2.0] C:\Users\ASUS\.android\build-cache\9bb57d2ed847bafc887be31b9eb341941dc8a464\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:10.2.0] C:\Users\ASUS\.android\build-cache\033448c3e7cc75b6b4732d9f98d582cdd1b0696f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:10.2.0] C:\Users\ASUS\.android\build-cache\dd5b1e13b0683587962a72be7913b5cf9b9ee602\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\ASUS\.android\build-cache\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\ASUS\.android\build-cache\d992d699b8e6a3ab9fa8c4238e336bf2d44c25df\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\ASUS\.android\build-cache\ae24936c6d80fbb97facda42afa9e1088ecee6bc\output\AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-ads:10.2.0] C:\Users\ASUS\.android\build-cache\136efaa12b6f4d7111e69d23747bb3bbd69455b9\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\ASUS\.android\build-cache\a0c0aca9abe8b4a04a98be57cfafaf7265277cbd\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] C:\Users\ASUS\.android\build-cache\b73cfe733c235d5df3a49bbbeaf224a74c360c28\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] C:\Users\ASUS\.android\build-cache\872da3ebc458568ee0eba1f450aa51a138e2ba51\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\ASUS\.android\build-cache\2644a221f1c71cb88b75ba1f79c0d227e3b9c3ce\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:10.2.0] C:\Users\ASUS\.android\build-cache\8eaa512779f0b337d67e27d2043765ba01af41e4\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\ASUS\.android\build-cache\8863a2c5346235e6daf9ea06810a490002f97b02\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\ASUS\.android\build-cache\ac9a034c914ce0d4f5e0c16672ed4a9640045fc3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:10.2.0] C:\Users\ASUS\.android\build-cache\6b172b644c1225bdbdc468bfee1bb0add7c78357\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:10.2.0] C:\Users\ASUS\.android\build-cache\d30c3bfc36ed3228d28f6f21e690606c5fd4de67\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-auth:10.2.0] C:\Users\ASUS\.android\build-cache\c1db1c35d7c9275f442fac61ca54ad469fa19c63\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\ASUS\.android\build-cache\5dea640f5655f57bd16e2c71abd421f0500dbc96\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\ASUS\.android\build-cache\d264257294a5eddcc4503536c15d3916760ac05b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:10.2.0] C:\Users\ASUS\.android\build-cache\3ea959ff80c04e66f24e5b99643b57dd964aa614\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\3b768a410c82151b0a4448e15ec4a6c11022277b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\ASUS\.android\build-cache\82d7f1fea5a108bba116352502569d12db4b280d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:10.2.0] C:\Users\ASUS\.android\build-cache\8781d2e26e49315f4595f306707a822f8bb66a46\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\ASUS\.android\build-cache\c9a9f51747bdb93e6e2876c5cf23d4dccac55229\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\ASUS\.android\build-cache\cf690890b9dd946bcaa3c7c9e4a28c547caaa012\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\ASUS\.android\build-cache\d1e2b32ea20745d8826f157dcaaec14582b1af6f\output\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.0.0] C:\Users\ASUS\.android\build-cache\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:19:38-67
+		INJECTED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:19:11-37
+		INJECTED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml
+		INJECTED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:21:1-63
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\f7d929ac1df1cfc2cbee8ba7171c21c1664cb499\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\ASUS\.android\build-cache\ea7f140e365588996be79ab56975b59ad24406de\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.2.0] C:\Users\ASUS\.android\build-cache\1d98aad2b9fb52e84092abceffd6379fb65be934\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\ASUS\.android\build-cache\8b5645f6584432c2fb20d94f0b1eda961fbef354\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] C:\Users\ASUS\.android\build-cache\126fbd60e973e22e409b55a95e8a904e2a8ea593\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\ASUS\.android\build-cache\a0c0aca9abe8b4a04a98be57cfafaf7265277cbd\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\ASUS\.android\build-cache\8863a2c5346235e6daf9ea06810a490002f97b02\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\ASUS\.android\build-cache\ac9a034c914ce0d4f5e0c16672ed4a9640045fc3\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\ASUS\.android\build-cache\5dea640f5655f57bd16e2c71abd421f0500dbc96\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\3b768a410c82151b0a4448e15ec4a6c11022277b\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\ASUS\.android\build-cache\82d7f1fea5a108bba116352502569d12db4b280d\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:21:18-60
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:22:1-77
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:22:18-74
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:23:1-75
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:23:18-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:24:1-72
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:24:18-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:25:1-64
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\f7d929ac1df1cfc2cbee8ba7171c21c1664cb499\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] C:\Users\ASUS\.android\build-cache\126fbd60e973e22e409b55a95e8a904e2a8ea593\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\3b768a410c82151b0a4448e15ec4a6c11022277b\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\ASUS\.android\build-cache\82d7f1fea5a108bba116352502569d12db4b280d\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:25:18-61
+uses-permission#android.permission.BATTERY_STATS
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:26:1-68
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:26:18-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:27:1-75
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\f7d929ac1df1cfc2cbee8ba7171c21c1664cb499\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] C:\Users\ASUS\.android\build-cache\5ddb78e91cd2496b0e2bd9d7f233b3666c17ad5e\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\ASUS\.android\build-cache\8b5645f6584432c2fb20d94f0b1eda961fbef354\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] C:\Users\ASUS\.android\build-cache\126fbd60e973e22e409b55a95e8a904e2a8ea593\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\ASUS\.android\build-cache\a0c0aca9abe8b4a04a98be57cfafaf7265277cbd\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\ASUS\.android\build-cache\5dea640f5655f57bd16e2c71abd421f0500dbc96\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\3b768a410c82151b0a4448e15ec4a6c11022277b\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\ASUS\.android\build-cache\82d7f1fea5a108bba116352502569d12db4b280d\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:27:18-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:28:1-77
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:28:18-74
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:29:1-64
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:29:18-61
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:30:1-70
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:30:18-67
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:33:1-78
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\ASUS\.android\build-cache\8863a2c5346235e6daf9ea06810a490002f97b02\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\ASUS\.android\build-cache\ac9a034c914ce0d4f5e0c16672ed4a9640045fc3\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:33:18-75
+application
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:35:1-93:15
+MERGED from [com.google.android.gms:play-services:10.2.0] C:\Users\ASUS\.android\build-cache\f4b84238362ab2928dd2a493d15add55d8efb534\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\f7d929ac1df1cfc2cbee8ba7171c21c1664cb499\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\ASUS\.android\build-cache\ea7f140e365588996be79ab56975b59ad24406de\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\ASUS\.android\build-cache\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.2.0] C:\Users\ASUS\.android\build-cache\c087a8731eb8d67d1343ba750f7d4a957223cdfa\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\ASUS\.android\build-cache\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\ASUS\.android\build-cache\d95953eead54dccb69d44040e1f4dd0b279ddff6\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-config:10.2.0] C:\Users\ASUS\.android\build-cache\052821d269d4783adcf2962379c121e88930e599\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.2.0] C:\Users\ASUS\.android\build-cache\d30a03f88e33e71071955b793b275f6640b641f1\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.2.0] C:\Users\ASUS\.android\build-cache\1d98aad2b9fb52e84092abceffd6379fb65be934\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\ASUS\.android\build-cache\0b4eca60043182a2f1545da08016e4ced92e1e5c\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.2.0] C:\Users\ASUS\.android\build-cache\af0f02deb61a927639f0f63dc5d8e4ba602386b7\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.2.0] C:\Users\ASUS\.android\build-cache\7a5ccd14a25b2da5f4adb29eb4795a25d0bc1171\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.2.0] C:\Users\ASUS\.android\build-cache\f2dedd7468bf698483669d917ffe23acea6bc91d\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.2.0] C:\Users\ASUS\.android\build-cache\52d390527e7e6c8bc125f2e109e3a95d46317dda\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.0] C:\Users\ASUS\.android\build-cache\ef47a8dd21674e630a74c78cc3036af38fc25d86\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.2.0] C:\Users\ASUS\.android\build-cache\5ddb78e91cd2496b0e2bd9d7f233b3666c17ad5e\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.2.0] C:\Users\ASUS\.android\build-cache\47cea4aa3b40892dc9ee5500d91df3fa30ae5199\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.2.0] C:\Users\ASUS\.android\build-cache\e97be21363eebbe69e4e35864a10c3cd3f899c0d\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.2.0] C:\Users\ASUS\.android\build-cache\9dba39c90b865e9d9f04b9b77df056f559ede7d7\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.2.0] C:\Users\ASUS\.android\build-cache\e96d9a23cc371cb14a5b6139b0de6f79d22f6f89\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\ASUS\.android\build-cache\8b5645f6584432c2fb20d94f0b1eda961fbef354\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.2.0] C:\Users\ASUS\.android\build-cache\75782794d812a654e27bd61c1af61743b21c54d0\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.2.0] C:\Users\ASUS\.android\build-cache\126fbd60e973e22e409b55a95e8a904e2a8ea593\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.2.0] C:\Users\ASUS\.android\build-cache\8244e2bdf3975c65f30dd8ea7f59d393b6b7d14f\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.2.0] C:\Users\ASUS\.android\build-cache\033448c3e7cc75b6b4732d9f98d582cdd1b0696f\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.2.0] C:\Users\ASUS\.android\build-cache\dd5b1e13b0683587962a72be7913b5cf9b9ee602\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:appcompat-v7:24.0.0] C:\Users\ASUS\.android\build-cache\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.0.0] C:\Users\ASUS\.android\build-cache\d992d699b8e6a3ab9fa8c4238e336bf2d44c25df\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.0.0] C:\Users\ASUS\.android\build-cache\ae24936c6d80fbb97facda42afa9e1088ecee6bc\output\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\ASUS\.android\build-cache\a0c0aca9abe8b4a04a98be57cfafaf7265277cbd\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.2.0] C:\Users\ASUS\.android\build-cache\b73cfe733c235d5df3a49bbbeaf224a74c360c28\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.2.0] C:\Users\ASUS\.android\build-cache\872da3ebc458568ee0eba1f450aa51a138e2ba51\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\ASUS\.android\build-cache\2644a221f1c71cb88b75ba1f79c0d227e3b9c3ce\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-gcm:10.2.0] C:\Users\ASUS\.android\build-cache\8863a2c5346235e6daf9ea06810a490002f97b02\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.2.0] C:\Users\ASUS\.android\build-cache\ac9a034c914ce0d4f5e0c16672ed4a9640045fc3\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-auth:10.2.0] C:\Users\ASUS\.android\build-cache\c1db1c35d7c9275f442fac61ca54ad469fa19c63\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\ASUS\.android\build-cache\5dea640f5655f57bd16e2c71abd421f0500dbc96\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\ASUS\.android\build-cache\d264257294a5eddcc4503536c15d3916760ac05b\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:10.2.0] C:\Users\ASUS\.android\build-cache\3ea959ff80c04e66f24e5b99643b57dd964aa614\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\3b768a410c82151b0a4448e15ec4a6c11022277b\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\ASUS\.android\build-cache\82d7f1fea5a108bba116352502569d12db4b280d\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.2.0] C:\Users\ASUS\.android\build-cache\8781d2e26e49315f4595f306707a822f8bb66a46\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.0] C:\Users\ASUS\.android\build-cache\c9a9f51747bdb93e6e2876c5cf23d4dccac55229\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\ASUS\.android\build-cache\cf690890b9dd946bcaa3c7c9e4a28c547caaa012\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\ASUS\.android\build-cache\d1e2b32ea20745d8826f157dcaaec14582b1af6f\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:35:75-107
+	android:allowBackup
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:35:14-40
+	android:icon
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:35:41-74
+	android:theme
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:36:5-61
+meta-data#com.google.android.gms.version
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:47:5-118
+MERGED from [com.google.android.gms:play-services-basement:10.2.0] C:\Users\ASUS\.android\build-cache\cf690890b9dd946bcaa3c7c9e4a28c547caaa012\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:47:62-115
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:47:16-61
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:49:5-50:51
+	android:value
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:50:9-48
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:49:16-61
+receiver#com.gimbal.android.sample.AutoStartBroadcastReceiver
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:52:5-56:16
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:52:15-57
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:53:9-55:25
+action#android.intent.action.BOOT_COMPLETED
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:54:13-75
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:54:21-72
+activity#com.gimbal.android.sample.AppActivity
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:58:5-125
+	android:screenOrientation
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:58:43-79
+	android:label
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:58:80-113
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:58:15-42
+activity#com.gimbal.android.sample.LocationActivity
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:59:5-64:16
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:59:15-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:60:9-63:25
+action#android.intent.action.MAIN
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:61:13-65
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:61:21-62
+category#android.intent.category.LAUNCHER
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:62:13-73
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:62:23-70
+activity#com.gimbal.android.sample.BookingActivity
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:65:5-107
+	android:label
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:65:47-71
+	android:exported
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:65:72-95
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:65:15-46
+activity#com.gimbal.android.sample.OptInActivity
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:66:5-67:65
+	android:screenOrientation
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:66:67-103
+	android:label
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:66:45-66
+	android:theme
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:67:9-62
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:66:15-44
+activity#com.gimbal.android.sample.SettingsActivity
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:68:5-69:51
+	android:label
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:69:9-48
+	android:icon
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:68:48-91
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:68:15-47
+activity#com.gimbal.android.sample.MapsActivity
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:71:5-72:16
+	android:label
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:71:69-112
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:71:15-68
+service#com.gimbal.android.sample.AppService
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:74:5-68
+	android:exported
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:74:41-65
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:74:14-40
+service#com.gimbal.internal.service.GimbalService
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:77:5-81:15
+	android:exported
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:77:71-95
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:77:14-70
+intent-filter#com.gimbal.android.sample.service.GIMBAL_SERVICE
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:78:9-80:25
+action#com.gimbal.android.sample.service.GIMBAL_SERVICE
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:79:13-87
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:79:21-84
+receiver#com.gimbal.internal.service.GimbalServiceStartStopReceiver
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:83:5-91:16
+	android:enabled
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:84:9-31
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:83:15-88
+intent-filter#android.intent.action.ACTION_SHUTDOWN
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:88:9-90:25
+action#android.intent.action.ACTION_SHUTDOWN
+ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:89:13-76
+	android:name
+		ADDED from E:\gimbal-sampleapp-studio\app\src\main\AndroidManifest.xml:89:21-73
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\ASUS\.android\build-cache\ea7f140e365588996be79ab56975b59ad24406de\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\ASUS\.android\build-cache\ea7f140e365588996be79ab56975b59ad24406de\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\ASUS\.android\build-cache\ea7f140e365588996be79ab56975b59ad24406de\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\ASUS\.android\build-cache\ea7f140e365588996be79ab56975b59ad24406de\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\ASUS\.android\build-cache\ea7f140e365588996be79ab56975b59ad24406de\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\ASUS\.android\build-cache\ea7f140e365588996be79ab56975b59ad24406de\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\ASUS\.android\build-cache\ea7f140e365588996be79ab56975b59ad24406de\output\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\ASUS\.android\build-cache\ea7f140e365588996be79ab56975b59ad24406de\output\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:10.2.0] C:\Users\ASUS\.android\build-cache\ea7f140e365588996be79ab56975b59ad24406de\output\AndroidManifest.xml:23:27-73
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\ASUS\.android\build-cache\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\ASUS\.android\build-cache\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\ASUS\.android\build-cache\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\ASUS\.android\build-cache\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\ASUS\.android\build-cache\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.2.0] C:\Users\ASUS\.android\build-cache\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\output\AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\ASUS\.android\build-cache\0b4eca60043182a2f1545da08016e4ced92e1e5c\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\ASUS\.android\build-cache\0b4eca60043182a2f1545da08016e4ced92e1e5c\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\ASUS\.android\build-cache\0b4eca60043182a2f1545da08016e4ced92e1e5c\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\ASUS\.android\build-cache\0b4eca60043182a2f1545da08016e4ced92e1e5c\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\ASUS\.android\build-cache\0b4eca60043182a2f1545da08016e4ced92e1e5c\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\ASUS\.android\build-cache\0b4eca60043182a2f1545da08016e4ced92e1e5c\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.2.0] C:\Users\ASUS\.android\build-cache\0b4eca60043182a2f1545da08016e4ced92e1e5c\output\AndroidManifest.xml:25:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\ASUS\.android\build-cache\8b5645f6584432c2fb20d94f0b1eda961fbef354\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\ASUS\.android\build-cache\8b5645f6584432c2fb20d94f0b1eda961fbef354\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\ASUS\.android\build-cache\8b5645f6584432c2fb20d94f0b1eda961fbef354\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\ASUS\.android\build-cache\8b5645f6584432c2fb20d94f0b1eda961fbef354\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\ASUS\.android\build-cache\8b5645f6584432c2fb20d94f0b1eda961fbef354\output\AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\ASUS\.android\build-cache\8b5645f6584432c2fb20d94f0b1eda961fbef354\output\AndroidManifest.xml:25:94-118
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\ASUS\.android\build-cache\8b5645f6584432c2fb20d94f0b1eda961fbef354\output\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\ASUS\.android\build-cache\8b5645f6584432c2fb20d94f0b1eda961fbef354\output\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\ASUS\.android\build-cache\8b5645f6584432c2fb20d94f0b1eda961fbef354\output\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\ASUS\.android\build-cache\8b5645f6584432c2fb20d94f0b1eda961fbef354\output\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\ASUS\.android\build-cache\8b5645f6584432c2fb20d94f0b1eda961fbef354\output\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\ASUS\.android\build-cache\8b5645f6584432c2fb20d94f0b1eda961fbef354\output\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\ASUS\.android\build-cache\8b5645f6584432c2fb20d94f0b1eda961fbef354\output\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.2.0] C:\Users\ASUS\.android\build-cache\8b5645f6584432c2fb20d94f0b1eda961fbef354\output\AndroidManifest.xml:30:27-75
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\ASUS\.android\build-cache\a0c0aca9abe8b4a04a98be57cfafaf7265277cbd\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\ASUS\.android\build-cache\a0c0aca9abe8b4a04a98be57cfafaf7265277cbd\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\ASUS\.android\build-cache\a0c0aca9abe8b4a04a98be57cfafaf7265277cbd\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\ASUS\.android\build-cache\a0c0aca9abe8b4a04a98be57cfafaf7265277cbd\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\ASUS\.android\build-cache\a0c0aca9abe8b4a04a98be57cfafaf7265277cbd\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\ASUS\.android\build-cache\a0c0aca9abe8b4a04a98be57cfafaf7265277cbd\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.2.0] C:\Users\ASUS\.android\build-cache\a0c0aca9abe8b4a04a98be57cfafaf7265277cbd\output\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\ASUS\.android\build-cache\2644a221f1c71cb88b75ba1f79c0d227e3b9c3ce\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\ASUS\.android\build-cache\2644a221f1c71cb88b75ba1f79c0d227e3b9c3ce\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\ASUS\.android\build-cache\2644a221f1c71cb88b75ba1f79c0d227e3b9c3ce\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\ASUS\.android\build-cache\2644a221f1c71cb88b75ba1f79c0d227e3b9c3ce\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\ASUS\.android\build-cache\2644a221f1c71cb88b75ba1f79c0d227e3b9c3ce\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\ASUS\.android\build-cache\2644a221f1c71cb88b75ba1f79c0d227e3b9c3ce\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\ASUS\.android\build-cache\2644a221f1c71cb88b75ba1f79c0d227e3b9c3ce\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\ASUS\.android\build-cache\2644a221f1c71cb88b75ba1f79c0d227e3b9c3ce\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.2.0] C:\Users\ASUS\.android\build-cache\2644a221f1c71cb88b75ba1f79c0d227e3b9c3ce\output\AndroidManifest.xml:24:18-63
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\ASUS\.android\build-cache\5dea640f5655f57bd16e2c71abd421f0500dbc96\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\ASUS\.android\build-cache\5dea640f5655f57bd16e2c71abd421f0500dbc96\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.0] C:\Users\ASUS\.android\build-cache\5dea640f5655f57bd16e2c71abd421f0500dbc96\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\ASUS\.android\build-cache\d264257294a5eddcc4503536c15d3916760ac05b\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\ASUS\.android\build-cache\d264257294a5eddcc4503536c15d3916760ac05b\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\ASUS\.android\build-cache\d264257294a5eddcc4503536c15d3916760ac05b\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.0] C:\Users\ASUS\.android\build-cache\d264257294a5eddcc4503536c15d3916760ac05b\output\AndroidManifest.xml:19:19-85
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\3b768a410c82151b0a4448e15ec4a6c11022277b\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\ASUS\.android\build-cache\82d7f1fea5a108bba116352502569d12db4b280d\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\3b768a410c82151b0a4448e15ec4a6c11022277b\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\3b768a410c82151b0a4448e15ec4a6c11022277b\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\3b768a410c82151b0a4448e15ec4a6c11022277b\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\3b768a410c82151b0a4448e15ec4a6c11022277b\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\3b768a410c82151b0a4448e15ec4a6c11022277b\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\3b768a410c82151b0a4448e15ec4a6c11022277b\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\3b768a410c82151b0a4448e15ec4a6c11022277b\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\3b768a410c82151b0a4448e15ec4a6c11022277b\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\3b768a410c82151b0a4448e15ec4a6c11022277b\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\3b768a410c82151b0a4448e15ec4a6c11022277b\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\3b768a410c82151b0a4448e15ec4a6c11022277b\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.2.0] C:\Users\ASUS\.android\build-cache\82d7f1fea5a108bba116352502569d12db4b280d\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\3b768a410c82151b0a4448e15ec4a6c11022277b\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\3b768a410c82151b0a4448e15ec4a6c11022277b\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.2.0] C:\Users\ASUS\.android\build-cache\3b768a410c82151b0a4448e15ec4a6c11022277b\output\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.2.0] C:\Users\ASUS\.android\build-cache\0e4ad883d4f881ba2cf62d64f90a61e2926da295\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\ASUS\.android\build-cache\8781d2e26e49315f4595f306707a822f8bb66a46\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\ASUS\.android\build-cache\8781d2e26e49315f4595f306707a822f8bb66a46\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\ASUS\.android\build-cache\8781d2e26e49315f4595f306707a822f8bb66a46\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\ASUS\.android\build-cache\8781d2e26e49315f4595f306707a822f8bb66a46\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.2.0] C:\Users\ASUS\.android\build-cache\8781d2e26e49315f4595f306707a822f8bb66a46\output\AndroidManifest.xml:6:79-143

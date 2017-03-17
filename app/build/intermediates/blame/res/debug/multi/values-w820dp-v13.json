@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1111,
+                        "endColumn": 57,
+                        "endOffset": 1164
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "E:\\gimbal-sampleapp-studio\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1111,
+                        "endColumn": 57,
+                        "endOffset": 1164
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_fast_out_slow_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\interpolator\\mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_fast_out_slow_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\interpolator\\mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_linear_out_slow_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\interpolator\\mr_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\mr_linear_out_slow_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\interpolator\\mr_linear_out_slow_in.xml"
+    }
+]

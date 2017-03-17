@@ -1,0 +1,62 @@
+<!--
+
+    Copyright (C) 2015 Gimbal, Inc. All rights reserved.
+
+    This software is the confidential and proprietary information of Gimbal, Inc.
+
+    The following sample code illustrates various aspects of the Gimbal SDK.
+
+    The sample code herein is provided for your convenience, and has not been
+    tested or designed to work on any particular system configuration. It is
+    provided AS IS and your use of this sample code, whether as provided or
+    with any modification, is at your own risk. Neither Gimbal, Inc.
+    nor any affiliate takes any liability nor responsibility with respect
+    to the sample code, and disclaims all warranties, express and
+    implied, including without limitation warranties on merchantability,
+    fitness for a specified purpose, and against infringement.
+
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.gimbal.android.sample.AppActivity" >
+
+
+    <ListView
+    	android:id="@+id/listview"
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+        android:layout_below="@+id/toolbar"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:background="@color/optin_background"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <FrameLayout
+        android:id="@+id/popup_window"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/black"
+        android:visibility="gone">
+
+        <Button
+            android:id="@+id/close_button"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:background="@android:drawable/btn_dialog"/>
+
+    </FrameLayout>
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:text="Book"
+        android:id="@+id/book"/>
+</RelativeLayout>

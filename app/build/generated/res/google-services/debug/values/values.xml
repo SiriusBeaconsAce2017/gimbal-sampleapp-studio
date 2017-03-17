@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">586498833121-gag3dmbas47jeopm56233s05nib5up60.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://gimbal-sample-app-studio.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">586498833121</string>
+    <string name="google_api_key" translatable="false">AIzaSyCQSlkb5nLNBRxi5AtVj8EQ6RhuG8eQPbs</string>
+    <string name="google_app_id" translatable="false">1:586498833121:android:439737cf0665dc05</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCQSlkb5nLNBRxi5AtVj8EQ6RhuG8eQPbs</string>
+    <string name="google_storage_bucket" translatable="false">gimbal-sample-app-studio.appspot.com</string>
+</resources>

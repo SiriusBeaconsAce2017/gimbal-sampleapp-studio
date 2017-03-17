@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "586498833121",
+    "firebase_url": "https://gimbal-sample-app-studio.firebaseio.com",
+    "project_id": "gimbal-sample-app-studio",
+    "storage_bucket": "gimbal-sample-app-studio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586498833121:android:439737cf0665dc05",
+        "android_client_info": {
+          "package_name": "com.gimbal.android.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586498833121-gag3dmbas47jeopm56233s05nib5up60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQSlkb5nLNBRxi5AtVj8EQ6RhuG8eQPbs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

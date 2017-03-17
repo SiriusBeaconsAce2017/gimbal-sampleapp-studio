@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\gimbal-sampleapp-studio\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

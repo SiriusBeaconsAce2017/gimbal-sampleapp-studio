@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_settings.png",
+        "source": "E:\\gimbal-sampleapp-studio\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_settings.png",
+        "source": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_settings.png"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\app_icon.png",
+        "source": "E:\\gimbal-sampleapp-studio\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\app_icon.png",
+        "source": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\src\\main\\res\\drawable-xhdpi\\app_icon.png"
+    }
+]

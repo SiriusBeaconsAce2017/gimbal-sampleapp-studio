@@ -1,0 +1,898 @@
+[
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\077106cefb2c314c6e2b7872d38366c1cfaaaa29\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comm_exit.png",
+        "source": "E:\\gimbal-sampleapp-studio\\app\\src\\main\\res\\drawable\\comm_exit.png"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\ic_collapse.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\077106cefb2c314c6e2b7872d38366c1cfaaaa29\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\077106cefb2c314c6e2b7872d38366c1cfaaaa29\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\d264257294a5eddcc4503536c15d3916760ac05b\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comm_enter.png",
+        "source": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\src\\main\\res\\drawable\\comm_enter.png"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\077106cefb2c314c6e2b7872d38366c1cfaaaa29\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\ic_collapse.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b2c999f0b4f698ddcc5f685693591ea2974949f8\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exp_fragment_presented.png",
+        "source": "E:\\gimbal-sampleapp-studio\\app\\src\\main\\res\\drawable\\exp_fragment_presented.png"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\077106cefb2c314c6e2b7872d38366c1cfaaaa29\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\ic_expand.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exp_fragment_presented.png",
+        "source": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\src\\main\\res\\drawable\\exp_fragment_presented.png"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\077106cefb2c314c6e2b7872d38366c1cfaaaa29\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\d264257294a5eddcc4503536c15d3916760ac05b\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\d264257294a5eddcc4503536c15d3916760ac05b\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comm_exit.png",
+        "source": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\src\\main\\res\\drawable\\comm_exit.png"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\place_exit.png",
+        "source": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\src\\main\\res\\drawable\\place_exit.png"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\d264257294a5eddcc4503536c15d3916760ac05b\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\077106cefb2c314c6e2b7872d38366c1cfaaaa29\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\d264257294a5eddcc4503536c15d3916760ac05b\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\place_enter.png",
+        "source": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\src\\main\\res\\drawable\\place_enter.png"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\d264257294a5eddcc4503536c15d3916760ac05b\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\d264257294a5eddcc4503536c15d3916760ac05b\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\d264257294a5eddcc4503536c15d3916760ac05b\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\d264257294a5eddcc4503536c15d3916760ac05b\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\d264257294a5eddcc4503536c15d3916760ac05b\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\d264257294a5eddcc4503536c15d3916760ac05b\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comm_enter.png",
+        "source": "E:\\gimbal-sampleapp-studio\\app\\src\\main\\res\\drawable\\comm_enter.png"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\place_enter_delay.png",
+        "source": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\src\\main\\res\\drawable\\place_enter_delay.png"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\place_enter.png",
+        "source": "E:\\gimbal-sampleapp-studio\\app\\src\\main\\res\\drawable\\place_enter.png"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\d264257294a5eddcc4503536c15d3916760ac05b\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comm_presented.png",
+        "source": "E:\\gimbal-sampleapp-studio\\app\\src\\main\\res\\drawable\\comm_presented.png"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\d264257294a5eddcc4503536c15d3916760ac05b\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\d264257294a5eddcc4503536c15d3916760ac05b\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\c087a8731eb8d67d1343ba750f7d4a957223cdfa\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\place_enter_delay.png",
+        "source": "E:\\gimbal-sampleapp-studio\\app\\src\\main\\res\\drawable\\place_enter_delay.png"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\077106cefb2c314c6e2b7872d38366c1cfaaaa29\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\place_exit.png",
+        "source": "E:\\gimbal-sampleapp-studio\\app\\src\\main\\res\\drawable\\place_exit.png"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\ic_expand.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\ce906b9ce2b6c095aced40353d0cde58554681b7\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\4f6ff96dce0834562fbe8f2a3ae33637d3cbfc10\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\f14a82d28e63ea3fb9fb7c72b9f944cee9c91cd7\\output\\res\\drawable\\mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comm_presented.png",
+        "source": "E:\\gimbalsdk_2.59.2_android\\gimbal-sampleapp-studio\\app\\src\\main\\res\\drawable\\comm_presented.png"
+    },
+    {
+        "merged": "E:\\gimbal-sampleapp-studio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\bf9922a2a25a49aa5c1283a3ed3fc057a9be7189\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    }
+]
